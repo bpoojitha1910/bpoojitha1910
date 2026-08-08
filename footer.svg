@@ -1,0 +1,9 @@
+<svg fill="none" width="800" height="50" viewBox="0 0 800 50" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="50" rx="8" fill="#030703" stroke="#15803d" stroke-width="2"/>
+  <style>
+    .text { font-family: 'Courier New', monospace; fill: #22c55e; font-size: 13px; }
+  </style>
+  <text x="25" y="30" class="text">user@github:~$ echo "Thanks for visiting!"</text>
+  <text x="350" y="30" class="text">&gt; connection terminated successfully_</text>
+  <text x="750" y="30" class="text">💚</text>
+</svg>
