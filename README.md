@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/b-poojitha-20467a370" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" />
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:bpoojitha1910@gmail.com">
@@ -19,16 +19,16 @@
   </a>
 </p>
 
----
+----------------------------------------------------------------------------------------------------
 
 ### 🚀 About Me
 
 - 🎓 CS Undergraduate at **BMS College of Engineering** (2024–2028)
 - 💡 Passionate about learning new technologies and building practical software
-- 🌱 Currently strengthening my **DSA** and **DBMS** fundamentals
+- 🌱 Currently strengthening my fundamentals
 - ⚡ Focused on turning what I learn into practical, working software
 
----
+----------------------------------------------------------------------------------------------------
 
 ### 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@
 C · Python · Java · React · Firebase · Git · GitHub · VS Code
 </p>
 
----
+----------------------------------------------------------------------------------------------------
 
 ### 📌 Featured Projects
 
@@ -46,6 +46,6 @@ C · Python · Java · React · Firebase · Git · GitHub · VS Code
 | **Spot It** | Mobile app for reporting and tracking community issues, built as a team project |
 | **Certificate Tracker** | Web-based system for tracking certificates and activity points, with a responsive frontend built as a team project |
 
----
+----------------------------------------------------------------------------------------------------
 
 <h3 align="center">Thanks for visiting! ⭐</h3>
