@@ -2,7 +2,8 @@
 <h3 align="center">Computer Science Undergraduate at BMS College of Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=460&lines=Turning+ideas+into+working+code;Currently+leveling+up+in+ML+%26+DL;Debugging+my+way+to+mastery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=460&lines=
+Learn +•+ Build +•+ Explore;Turning+ideas+into+working+code;" alt="Typing SVG" />
 </p>
 
 <p align="center">
