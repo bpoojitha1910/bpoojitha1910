@@ -1,0 +1,13 @@
+<svg fill="none" width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="110" rx="8" fill="#030703" stroke="#15803d" stroke-width="2"/>
+  <style>
+    .bold { font-family: 'Courier New', monospace; font-weight: bold; fill: #22c55e; }
+    .dim { font-family: 'Courier New', monospace; fill: #15803d; }
+    .text { font-family: 'Courier New', monospace; fill: #4ade80; font-size: 14px; }
+  </style>
+  <text x="25" y="38" class="bold" font-size="24">bpoojitha1910</text>
+  <text x="480" y="38" class="text" font-size="12">📍 INDIA   🎓 CS STUDENT   🟢 ONLINE   🕒 UTC +05:30</text>
+  <line x1="25" y1="50" x2="775" y2="50" stroke="#15803d" stroke-dasharray="4 4" />
+  <text x="25" y="72" class="dim" font-size="13">user@github:~$ whoami</text>
+  <text x="25" y="92" class="text">&gt; developer • learner • builder</text>
+</svg>
