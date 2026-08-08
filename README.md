@@ -6,9 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/b-poojitha-20467a370">LinkedIn</a> ·
-  <a href="mailto:bpoojitha1910@gmail.com">Email</a> ·
-  <a href="https://github.com/bpoojitha1910">GitHub</a>
+  <a href="https://linkedin.com/in/b-poojitha-20467a370" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bpoojitha1910@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/bpoojitha1910" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" />
+  </a>
 </p>
 
 ---
@@ -39,17 +47,5 @@ C · Python · Java · React · Firebase · Git · GitHub · VS Code
 | **Certificate Tracker** | Web-based system for tracking certificates and activity points, with a responsive frontend built as a team project |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bpoojitha1910&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpoojitha1910&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpoojitha1910&theme=dark&hide_border=true" />
-</p>
-
 
 <h3 align="center">Thanks for visiting! ⭐</h3>
