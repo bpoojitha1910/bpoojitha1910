@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-C · Python · Java · React · Firebase · Git · GitHub · VS Code
+C · Python · Java · React · Firebase · GitHub · VS Code
 </p>
 
 ---
